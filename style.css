@@ -3,3 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+  
+}
+
+header {
+  text-align: center;
+}
+
+.img  {
+  margin-left: auto;
+  margin-right: auto;
+  color: aliceblue;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.cap {
+  font-size: small;
+}
+
+
+p #featured-property {
+  text-align: center;
+  width: 800px;
+
+}
+
+#details {
+  list-style: none;
+}
